@@ -18,12 +18,12 @@ and install project required packages:
 
 ### Expected input
 Google Sheets document should be of structure:
-![Google Sheets table setup](google_sheets_print_screen.png)
+![Google Sheets table setup](/source/images/google_sheets_print_screen.png)
 
 ### Important notes
   * Every week must begin with **Sunday** and end with **Saturday**
   * Before using data must be downloaded as CSV
-  ![Google Sheet CSV export](google_sheets_print_screen_2.png)
+  ![Google Sheet CSV export](/source/images/google_sheets_print_screen_2.png)
   * Script is using **current date** to fetch data from CSV file so it is necessary to generate report the same month data are related to.
 
 ## Example
